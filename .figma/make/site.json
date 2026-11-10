@@ -1,0 +1,10 @@
+{
+  "description": "Streamline wedding package management with an intuitive cashier and admin system, enabling efficient transaction processing and scheduling for wedding vendors.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
